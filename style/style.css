@@ -1,0 +1,27 @@
+body {
+    background-color: slategray;
+}
+
+#menu {
+    background-color: cadetblue;
+    margin-bottom: 10px;
+}
+
+#head {
+    background-color: wheat;
+}
+
+
+.cuadro {
+    height: 10em;
+    width: 20em;
+    background-color: snow;
+    margin: 10px;
+    
+}
+
+#bienMal {
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+}
